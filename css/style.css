@@ -1217,6 +1217,38 @@ body.mobile-nav-active #mobile-nav-toggle {
   content: "\f055" !important;
 }
 
+.faq-images{
+width: 30px;
+height: 30px;
+margin-left: 560px;
+}
+.faq-images2{
+width: 30px;
+height: 30px;
+margin-left: 575px;
+}
+.faq-images3{
+width: 30px;
+height: 30px;
+margin-left: 360px;
+}
+.faq-images4{
+width: 30px;
+height: 30px;
+margin-left: 390px;
+}
+.faq-images5{
+width: 30px;
+height: 30px;
+margin-left: 395px;
+}
+.faq-images6{
+width: 30px;
+height: 30px;
+margin-left: 462px;
+}
+
+
 
 #subscribe {
   padding: 60px;
